@@ -29,10 +29,10 @@ It contains 5 Branches -
    |`git clone` | To clone the repository|
    |`git log --online` | To view the current logs graph for the repository|
    |`git push` | To push the local changes onto origin|
-   |`git pull` | To pull changes from origin to local git pull|
-   |`git checkout` | To navigate between the branches created by git branch git checkout| 
-   |`git branch` | To create or delete branches: git branch|
-   |`git checkout -d [branch name]` | To delete a particular branch git checkout -d [branch name]|
-   |`git checkout -b [branch name]` | To switch in a branch or create then switch to that branch if it doesn't exist git checkout -b [branch name]|
+   |`git pull` | To pull changes from origin to local|
+   |`git checkout` | To navigate between the branches created by git branch| 
+   |`git branch` | To create or delete branch|
+   |`git checkout -d [branch name]` | To delete a particular branch|
+   |`git checkout -b [branch name]` | To switch in a branch or create then switch to that branch if it doesn't exist|
 
 
