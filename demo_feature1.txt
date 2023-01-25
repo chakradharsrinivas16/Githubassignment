@@ -1,1 +1,2 @@
 This is for feature1.
+This is for another step 6.
